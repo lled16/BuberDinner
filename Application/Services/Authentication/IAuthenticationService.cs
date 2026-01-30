@@ -1,0 +1,16 @@
+﻿using Contracts.Authentication;
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Application.Services.Authentication
+{
+    public interface IAuthenticationService
+    {
+        AuthenticationResult Login(string email, string password);
+        AuthenticationResult Register(string firstName, string lastName, string email, string password);
+    }
+}
