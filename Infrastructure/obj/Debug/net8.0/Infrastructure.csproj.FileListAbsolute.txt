@@ -17,3 +17,4 @@ C:\Users\vitor\Documents\Projetos\BuberDinner\BuberDinner\Infrastructure\obj\Deb
 C:\Users\vitor\Documents\Projetos\BuberDinner\BuberDinner\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
 C:\Users\vitor\Documents\Projetos\BuberDinner\BuberDinner\Infrastructure\bin\Debug\net8.0\Contracts.dll
 C:\Users\vitor\Documents\Projetos\BuberDinner\BuberDinner\Infrastructure\bin\Debug\net8.0\Contracts.pdb
+C:\Users\vitor\Documents\Projetos\BuberDinner\BuberDinner\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
